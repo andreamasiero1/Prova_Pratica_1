@@ -4,4 +4,5 @@
 Processori
 Schede Madri
 ## Periferiche
+Tastiere
 Elettronica Padovana
