@@ -5,4 +5,5 @@ Processori
 Schede Madri
 ## Periferiche
 Tastiere
+Mouse
 Elettronica Padovana
